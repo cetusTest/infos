@@ -21,9 +21,9 @@ Dans tous les templates se trouve un README.md dedans, il sera indiqué le nivea
 
 ### Templates de bot discord
 
-- Débutant -> Exige des faibles connaissances de discord.js
+- Débutant -> Exige de faibles connaissances de discord.js
 
-- Moyen -> Exige des bonnes connaissance de discord.js
+- Moyen -> Exige de bonnes connaissance de discord.js
 
 - Avancé -> Exige de grandes connaissance de discord.js et du JavaScript (Peut contenir une base de données)
 
