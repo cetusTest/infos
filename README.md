@@ -9,7 +9,7 @@ Dans tous les templates se trouve un README.md dedans, il sera indiqué le nivea
 
 ### Templates de site web
 
-- Aucune connaissance -> Ne nécéssite aucunes connaissances, contient beaucoup de commentaires
+- Aucunes connaissances -> Ne nécéssite aucunes connaissances, contient beaucoup de commentaires
 
 - Débutant -> Exige de faibles connaissances du html
 
