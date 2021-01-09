@@ -23,13 +23,13 @@ Dans tous les templates se trouve un README.md dedans, il sera indiqué le nivea
 
 - Débutant -> Exige de faibles connaissances de discord.js
 
-- Moyen -> Exige de bonnes connaissance de discord.js
+- Moyen -> Exige de bonnes connaissances de discord.js
 
-- Avancé -> Exige de grandes connaissance de discord.js et du JavaScript (Peut contenir une base de données)
+- Avancé -> Exige de grandes connaissances de discord.js et du JavaScript (Peut contenir une base de données)
 
-- Pro -> Exige de très grandes connaissance de discord.js et du Javascript (Peut contenir une ou plusieurs base(s) de données)
+- Pro -> Exige de très grandes connaissances de discord.js et du Javascript (Peut contenir une ou plusieurs base(s) de données)
 
-Tout nos templates seront beaucoup commenté pour qu'il soit facilement compressible pour le plus de personnes possibles.
+Tout nos templates seront beaucoup commentés pour qu'ils soit facilement compréhensible pour le plus de personnes possible.
 Si vous avez toutefois un problème, vous pouvez vous rendre sur notre serveur discord où nous vous aiderons avec plaisir. https://discord.devioo.com
 
 ## Templates disponibles
