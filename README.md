@@ -3,7 +3,7 @@ Ci-dessous retrouvés des infos sur nos templates gratuits
 
 ## Infos
 
-Si du code ce trouve entre des commentaire dans les quels il est indiquer "NE PAS SUPPRIMÉ" il est interdit de supprimé le code !
+Si du code ce trouve entre des commentaire dans les quels il est indiquer "NE PAS SUPPRIMER" il est interdit de supprimé le code !
 
 Dans tout les templates se trouve un README.md dedans, il sera indiqué le niveau requis pour utiliser le template.
 
