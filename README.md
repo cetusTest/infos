@@ -9,7 +9,7 @@ Dans tous les templates se trouve un README.md dedans, il sera indiqué le nivea
 
 ### Templates de site web
 
-- Aucune connaissance -> Ne néccésite aucunes connaissances, contient beaucoup de commentaires
+- Aucune connaissance -> Ne nécéssite aucunes connaissances, contient beaucoup de commentaires
 
 - Débutant -> Exige de faibles connaissances du html
 
@@ -17,7 +17,7 @@ Dans tous les templates se trouve un README.md dedans, il sera indiqué le nivea
 
 - Avancé -> Exige de grandes connaissances du html et des bases solides du css
 
-- Pro -> Exige beaucoup de connaissances du html et du css. Des connaissance d'autres langages tels JavaScript ou php son recommandé
+- Pro -> Exige beaucoup de connaissances du html et du css. Des connaissance d'autres langages tels JavaScript ou php sont recommandés
 
 ### Templates de bot discord
 
