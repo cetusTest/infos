@@ -3,7 +3,7 @@ Ci-dessous retrouvés des infos sur nos templates gratuits
 
 ## Infos
 
-Si du code ce trouve entre des commentare dans les quels il est indiquer "NE PAS SUPPRIMÉ" il est interdit de supprimé le code !
+Si du code ce trouve entre des commentaire dans les quels il est indiquer "NE PAS SUPPRIMÉ" il est interdit de supprimé le code !
 
 Dans tout les templates se trouve un README.md dedans, il sera indiqué le niveau requis pour utiliser le template.
 
@@ -29,7 +29,7 @@ Dans tout les templates se trouve un README.md dedans, il sera indiqué le nivea
 
 - Pro -> Exige de très grandes connaissance de discord.js et du Javascript (Peut contenir une ou plusieurs base(s) de données)
 
-Tout nos tempaltes seront beaucoup commenté pour qu'il soit facilement compressible pour le plus de personnes possibles.
+Tout nos templates seront beaucoup commenté pour qu'il soit facilement compressible pour le plus de personnes possibles.
 Si vous avez toutefois un problème, vous pouvez vous rendre sur notre serveur discord où nous vous aiderons avec plaisir. https://discord.devioo.com
 
 ## Templates disponibles
