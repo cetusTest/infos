@@ -21,5 +21,6 @@ Si vous avez toutefois un problème, vous pouvez vous rendre sur notre serveur d
 
 Tout nos templates sont disponible ici : https://devioo.com/templates
 
+## Autre
 
 Site web : https://devioo.com
