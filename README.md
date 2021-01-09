@@ -1,5 +1,5 @@
-# FREE-TEMPLATES
-Templates gratuits et open-source à télécharger.
+# Templates
+Ci-dessous retrouvés des infos sur nos templates gratuits
 
 ## Infos
 
@@ -21,11 +21,11 @@ Dans tout les templates se trouve un README.md dedans, il sera indiqué le nivea
 
 ### Templates de bot discord
 
-- Débutant -> Exige des faible connaissance de discord.js
+- Débutant -> Exige des faibles connaissances de discord.js
 
 - Moyen -> Exige des bonnes connaissance de discord.js
 
-- Avancé -> Exige de grandes connaissance de discord.js et du Javascript (Peut contenir une base de données)
+- Avancé -> Exige de grandes connaissance de discord.js et du JavaScript (Peut contenir une base de données)
 
 - Pro -> Exige de très grandes connaissance de discord.js et du Javascript (Peut contenir une ou plusieurs base(s) de données)
 
