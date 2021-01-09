@@ -1,4 +1,4 @@
-# Templates
+# Templates - Informations
 Ci-dessous retrouvés des infos sur nos templates gratuits
 
 ## Infos
