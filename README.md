@@ -3,9 +3,9 @@ Ci-dessous retrouvés des infos sur nos templates gratuits
 
 ## Infos
 
-Si du code ce trouve entre des commentaire dans les quels il est indiquer "NE PAS SUPPRIMER" il est interdit de supprimé le code !
+Si du code se trouve entre des commentaire dans les quels il est indiquer "NE PAS SUPPRIMER" il est interdit de supprimer le code !
 
-Dans tout les templates se trouve un README.md dedans, il sera indiqué le niveau requis pour utiliser le template.
+Dans tous les templates se trouve un README.md dedans, il sera indiqué le niveau requis pour utiliser le template.
 
 ### Templates de site web
 
@@ -34,7 +34,7 @@ Si vous avez toutefois un problème, vous pouvez vous rendre sur notre serveur d
 
 ## Templates disponibles
 
-Tout nos templates sont disponible [ici](https://devioo.com/templates)
+Tous nos templates sont disponible [ici](https://devioo.com/templates)
 
 ## Autre
 
